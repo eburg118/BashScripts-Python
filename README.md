@@ -1,2 +1,2 @@
-# BashScripts-Python
-Bash/Python scripts
+# Bash/Python/Powershell-Scripts
+Bash/Python/Powershell scripts
